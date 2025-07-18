@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#1890ff" # Couleur principale (bleu de vos bordures)
+backgroundColor="#0e1117" # Fond principal sombre
+secondaryBackgroundColor="#262730" # Fond secondaire (ex: sidebar, containers)
+textColor="#fafafa" # Couleur du texte
+font="sans serif"
